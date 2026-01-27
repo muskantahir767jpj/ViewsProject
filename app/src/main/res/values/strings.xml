@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="favorite_personality">Whats your favorite personality?</string>
+    <string name="introvert">Introvert</string>
+    <string name="extrovert">Extrovert</string>
+    <string name="confident">Confident</string>
+    <string name="friendly">Friendly</string>
+    <string name="selection_result">Your selection will appear here</string>
+    <string name="result_format">Your selection is: %s</string>
+</resources>
